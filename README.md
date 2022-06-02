@@ -9,7 +9,7 @@ I am currently a student at the Hogeschool Rotterdam in the Netherlands at Creat
 * 🌍  I'm based in Spijkenisse
 * ✉️  You can contact me at [robdewilligen@outlook.com](mailto:robdewilligen@outlook.com)
 * 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Games and VR development
+* 🤝  I'm open to collaborating on Games, VR development and Web development
 
 <a href="https://www.twitter.com/Rob_de_Willigen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Rob_de_Willigen?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
