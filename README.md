@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Creative developer
 ------------------
 
-I am currently a student of Creative Media and Game Technologies at the Rotterdam University of Applied Sciences
+I have graduated Creative Media and Game Technologies at the Rotterdam University of Applied Sciences and am currently working at E-dynamics Yoobi
 
 * 🌍  I'm based in Spijkenisse
 * ✉️  You can contact me at [robdewilligen@outlook.com](mailto:robdewilligen@outlook.com)
-* 🧠  I'm learning Angular and NestJS
+* 🧠  I'm learning Vue.js and Lucee/Coldfusion
 * 🤝  I'm open to collaborating on Web and game projects
 
 ### Skills
